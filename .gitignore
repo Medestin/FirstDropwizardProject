@@ -4,6 +4,8 @@
 
 !gradle/wrapper/gradle-wrapper.jar
 
+*.html
+
 ### STS ###
 .apt_generated
 .classpath
